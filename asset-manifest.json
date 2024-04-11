@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VHC-MAPPING/static/css/main.fe8b4948.css",
+    "main.js": "/VHC-MAPPING/static/js/main.7bae1fba.js",
+    "index.html": "/VHC-MAPPING/index.html",
+    "main.fe8b4948.css.map": "/VHC-MAPPING/static/css/main.fe8b4948.css.map",
+    "main.7bae1fba.js.map": "/VHC-MAPPING/static/js/main.7bae1fba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8b4948.css",
+    "static/js/main.7bae1fba.js"
+  ]
+}
